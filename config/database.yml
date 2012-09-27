@@ -33,7 +33,7 @@ development:
 test:
   adapter: postgresql
   encoding: unicode
-  database: sample_app_development
+  database: sample_app_test
   pool: 5
   username: pjetly
   password:
