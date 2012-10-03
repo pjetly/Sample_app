@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d9f8806-a47e-4df6-9cea-3b02a3fe222e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/user.rb" afterPath="$PROJECT_DIR$/app/models/user.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/_header.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/models/user_spec.rb" afterPath="$PROJECT_DIR$/spec/models/user_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/spec_helper.rb" afterPath="$PROJECT_DIR$/spec/spec_helper.rb" />
-    </list>
+    <list default="true" id="7d9f8806-a47e-4df6-9cea-3b02a3fe222e" name="Default" comment="" />
     <ignored path="sample_app.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -50,10 +40,9 @@
       <file leaf-file-name="sessions_helper.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/helpers/sessions_helper.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0">
+            <state line="30" column="0" selection-start="695" selection-end="695" vertical-scroll-proportion="0.0">
               <folding>
-                <marker date="1349159841000" expanded="true" signature="21:349" placeholder=" ... end" />
-                <marker date="1349159841000" expanded="true" signature="156:185" placeholder=" ... end" />
+                <marker date="1349215898000" expanded="true" signature="21:694" placeholder=" ... end" />
               </folding>
             </state>
           </provider>
@@ -82,7 +71,7 @@
       <file leaf-file-name="authentication_pages_spec.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/requests/authentication_pages_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="30" selection-start="1027" selection-end="1027" vertical-scroll-proportion="0.62749004">
+            <state line="36" column="32" selection-start="937" selection-end="937" vertical-scroll-proportion="0.39442232">
               <folding />
             </state>
           </provider>
@@ -711,8 +700,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="0" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1349159841000" expanded="true" signature="21:349" placeholder=" ... end" />
-            <marker date="1349159841000" expanded="true" signature="156:185" placeholder=" ... end" />
+            <marker date="1349215898000" expanded="true" signature="21:694" placeholder=" ... end" />
           </folding>
         </state>
       </provider>
@@ -779,10 +767,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/helpers/sessions_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="350" selection-end="350" vertical-scroll-proportion="0.0">
+        <state line="30" column="0" selection-start="695" selection-end="695" vertical-scroll-proportion="0.0">
           <folding>
-            <marker date="1349159841000" expanded="true" signature="21:349" placeholder=" ... end" />
-            <marker date="1349159841000" expanded="true" signature="156:185" placeholder=" ... end" />
+            <marker date="1349215898000" expanded="true" signature="21:694" placeholder=" ... end" />
           </folding>
         </state>
       </provider>
@@ -826,7 +813,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/requests/authentication_pages_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="30" selection-start="1027" selection-end="1027" vertical-scroll-proportion="0.62749004">
+        <state line="36" column="32" selection-start="937" selection-end="937" vertical-scroll-proportion="0.39442232">
           <folding />
         </state>
       </provider>
